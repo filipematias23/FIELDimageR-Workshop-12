@@ -6,7 +6,7 @@
 
 ## "FIELDimageR pipelines: Phenomics applied to Agriculture"
 
-> Workshop presented for PET-AGRO-UFU (Federal University of Uberlandia). In this course, I went through the basic steps of FIELDimageR pipeline showing how to evaluate and apply remote sensing data and lab images in plant breeding. 
+> In this course, I went through the basic steps of FIELDimageR pipeline showing how to evaluate and apply remote sensing data and lab images in plant breeding. 
 
 <br />
 
